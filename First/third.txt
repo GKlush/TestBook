@@ -1,0 +1,1 @@
+It's third file and it's first line in the file.
